@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects xmlns="http://example.com/projects"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.com/projects projects.xsd">
+    <project id="P101">
+        <title>E-commerce Platform Development</title>
+        <description>Building a scalable e-commerce platform for small businesses to manage online sales and inventory.</description>
+        <startDate>2022-07-10</startDate>
+        <endDate>2023-12-01</endDate>
+        <status>Completed</status>
+        <technologies>
+            <technology>React</technology>
+            <technology>Node.js</technology>
+            <technology>MongoDB</technology>
+            <technology>AWS</technology>
+        </technologies>
+        <team>
+            <member id="M101" role="Full Stack Developer">Liam Jackson</member>
+            <member id="M102" role="UX Designer">Emma Davis</member>
+            <member id="M103" role="DevOps Engineer">Noah Wilson</member>
+        </team>
+    </project>
+    <project id="P102">
+        <title>Healthcare Mobile App</title>
+        <description>Developing a mobile application for remote patient monitoring and telemedicine consultations.</description>
+        <startDate>2023-01-15</startDate>
+        <endDate>2024-09-30</endDate>
+        <status>Ongoing</status>
+        <technologies>
+            <technology>Flutter</technology>
+            <technology>Firebase</technology>
+            <technology>REST API</technology>
+        </technologies>
+        <team>
+            <member id="M104" role="Mobile Developer">Sophia Moore</member>
+            <member id="M105" role="Backend Developer">Mason Taylor</member>
+            <member id="M106" role="Quality Assurance">Ava Martinez</member>
+        </team>
+    </project>
+    <project id="P103">
+        <title>AI-based Recommendation System</title>
+        <description>Creating a recommendation system for an online streaming service using AI and machine learning algorithms.</description>
+        <startDate>2024-02-01</startDate>
+        <endDate>2025-05-15</endDate>
+        <status>Planned</status>
+        <technologies>
+            <technology>Python</technology>
+            <technology>TensorFlow</technology>
+            <technology>Scikit-learn</technology>
+        </technologies>
+        <team>
+            <member id="M107" role="Data Scientist">Olivia Anderson</member>
+            <member id="M108" role="ML Engineer">Ethan Hernandez</member>
+            <member id="M109" role="Data Analyst">Lucas Martinez</member>
+        </team>
+    </project>
+    <project id="P104">
+        <title>Smart Home Automation System</title>
+        <description>Developing a smart home automation system that integrates IoT devices with voice control capabilities.</description>
+        <startDate>2023-05-20</startDate>
+        <endDate>2024-12-31</endDate>
+        <status>Ongoing</status>
+        <technologies>
+            <technology>IoT</technology>
+            <technology>Python</technology>
+            <technology>Raspberry Pi</technology>
+            <technology>Google Assistant API</technology>
+        </technologies>
+        <team>
+            <member id="M110" role="IoT Engineer">Benjamin Thomas</member>
+            <member id="M111" role="Embedded Systems Developer">Charlotte Lee</member>
+            <member id="M112" role="Cloud Engineer">Amelia Gonzalez</member>
+        </team>
+    </project>
+</projects>
